@@ -1,0 +1,84 @@
+[
+  {
+    "id": "5a5acc2d-1246-4e39-b7f9-0b241127e1a9",
+    "data": [
+      {
+        "text": "파이썬 강의요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06df569b-47fc-4137-a0d1-ebf3863ff6ec",
+    "data": [
+      {
+        "text": "파이썬",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      },
+      {
+        "text": "이요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11e1f5b1-68f4-4261-adf5-15aac373a4ea",
+    "data": [
+      {
+        "text": "파이썬",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a4064f1-e45f-4493-88d5-4d902826496f",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": ". ",
+        "userDefined": false
+      },
+      {
+        "text": "파이썬",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59f980b1-6268-47b3-81db-d1ec1f38c9c3",
+    "data": [
+      {
+        "text": "Python",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

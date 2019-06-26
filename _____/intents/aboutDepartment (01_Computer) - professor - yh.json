@@ -1,0 +1,32 @@
+{
+  "id": "a4ab7291-da67-41e7-a542-3dbc0d73a988",
+  "parentId": "bdd7ba4b-aa90-4cd5-b800-73943b536989",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - professor - yh",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-professor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom.aboutDepartment01_Computer-professor-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "안용학 교수님\n전공 : 전산학\n연구실위치 : 대양AI센터 613호\n연구실전화 : 02)3408 - 3837\ne-mail 주소 : yohans@sejong.ac.kr\n추천 강의 : \u0027웹프로그래밍\u0027, \u0027C#프로그래밍\u0027, \u0027운영체제\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

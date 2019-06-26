@@ -1,0 +1,80 @@
+[
+  {
+    "id": "80c94d91-4259-424e-8931-324d90a10b52",
+    "data": [
+      {
+        "text": "교과 과정 이수 안내",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "717354de-6b46-4bad-9284-f4dbe2fc78ce",
+    "data": [
+      {
+        "text": "커리큘럼 알려주세요.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7019bd28-7fec-4b56-8787-73d4093fbf8c",
+    "data": [
+      {
+        "text": "교과과정",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 알고싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2eacdc5-171c-4f69-ab49-4ddc92ee08c6",
+    "data": [
+      {
+        "text": "교과 과정",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c14087f-72ab-4ba4-a20c-f9e2751e2b6c",
+    "data": [
+      {
+        "text": "교과 과정 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

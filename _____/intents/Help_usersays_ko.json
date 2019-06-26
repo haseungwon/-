@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ff2aab50-22ae-45b7-88cd-4b5361971b09",
+    "data": [
+      {
+        "text": "살려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f09f7159-3ba6-42d9-acce-e00aac3e44e7",
+    "data": [
+      {
+        "text": "살려줘 ㅠㅠㅠㅠ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a2c646e-e56e-4d3d-9d55-2ca26f5185c7",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "be51ab00-7f8f-43e0-ad04-326992ffe123",
+    "data": [
+      {
+        "text": "도와주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4148ffa4-80d1-4455-be2b-453a07772d10",
+    "data": [
+      {
+        "text": "도움",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7c50ba93-d4a1-43d7-a3fb-5e72d646b3e7",
+    "data": [
+      {
+        "text": "help!!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "58ae7251-b25e-4fd8-9ba7-6d293234af30",
+    "data": [
+      {
+        "text": "도와줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

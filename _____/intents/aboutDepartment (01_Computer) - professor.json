@@ -1,0 +1,47 @@
+{
+  "id": "bdd7ba4b-aa90-4cd5-b800-73943b536989",
+  "parentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - professor",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom",
+      "affectedContexts": [
+        {
+          "name": "aboutDepartment01_Computer-professor-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a10546e2-514f-42a7-a5a4-a2c79340434a",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "어떤 교수님에 대해 알려드릴까요?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "66143707-ebdb-4a9d-9dbd-f7ad323810d3",
+  "parentId": "207afd3f-b442-4f48-9006-7a49d2cf589d",
+  "rootParentId": "f956bea4-50e0-4506-a66f-25cd31d7d13c",
+  "name": "Curriculum - custom - custom",
+  "auto": true,
+  "contexts": [
+    "Curriculum-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Curriculum.Curriculum-custom.Curriculum-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "※중핵필수과목 이수※\n\n3개 영역: 학문기초, 인성과창의력,역량강화\n\n가. 중핵필수 과목은 반드시 이수해야 한다. 중핵필수 과목의 학점이 변경되어 종전 졸업 기준에서 요구한 학점에 미달되어도 해당 과목을 이수하면 중핵필수 이수 요건을 갖춘 것으로 인정한다.\n\n나. 중핵필수 과목의 이수구분이 변경된 경우 해당 학년도부터 변경된 이수구분에 따라 이수한다. \n ex) 세계사:인간과문명 :  중핵필수 → 중핵필수선택(2015)\n    English Listening Practice2  :  중핵필수 → 자유선택교양(2018)\n\n다. 중핵필수 과목에서 해제된 경우 대체과목이 있으면 반드시 이수해야 하며, 대체과목이 없으면 이수하지 않아도 된다. (입학년도별 교과과정 참조)\n\n라. 중핵필수 과목이 새로 추가된 경우 추가된 학년도에 입학한 학생들부터 이수하면 된다.\n\n마. 중핵필수에서 해제된 과목의 학점은 자유선택교양(구 교양선택) 학점으로 인정한다. 단, 중핵필수에서 해제되어 자유선택교양이 아닌 다른 이수구분으로 변경된 경우에는 해당 이수구분 학점으로 인정한다.\n ex) 창업과기업가정신1,세계사:인간과문명 :\t중핵필수 → 중핵필수선택(2015)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "0714c17c-a00f-4add-a809-3b3c64371e78",
+    "data": [
+      {
+        "text": "씨쁠쁠",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2c18e3b-aa17-4253-9dfb-751722c2b148",
+    "data": [
+      {
+        "text": "C++",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      },
+      {
+        "text": " Programming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "410f3435-f504-47be-877b-c84398f3ff21",
+    "data": [
+      {
+        "text": "C++",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

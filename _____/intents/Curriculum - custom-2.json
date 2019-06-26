@@ -1,0 +1,38 @@
+{
+  "id": "1359693e-619f-4267-b316-c9ffb68d84cd",
+  "parentId": "f956bea4-50e0-4506-a66f-25cd31d7d13c",
+  "rootParentId": "f956bea4-50e0-4506-a66f-25cd31d7d13c",
+  "name": "Curriculum - custom-2",
+  "auto": true,
+  "contexts": [
+    "Curriculum-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Curriculum.Curriculum-custom-2",
+      "affectedContexts": [
+        {
+          "name": "Curriculum-custom-2-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "어떤 것을 알려드릴까요? (전공필수과목/전공선택과목 중 선택하세요.)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

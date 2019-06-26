@@ -1,0 +1,35 @@
+{
+  "id": "3dcd5c1e-d672-46b5-8d9d-230a8df1d7bd",
+  "parentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "rootParentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "name": "aboutDepartment (02_Info) - where",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment02_Info-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment02_Info.aboutDepartment02_Info-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "정보보호하고가 과사무실은 대양AI센터 404호에 있어!",
+            "대양AI센터 404호"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

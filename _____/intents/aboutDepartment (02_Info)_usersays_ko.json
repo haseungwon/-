@@ -1,0 +1,86 @@
+[
+  {
+    "id": "2a691a23-97a1-4d78-bb05-e8baf9859933",
+    "data": [
+      {
+        "text": "정보보호",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "에 대해 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25820a9c-1944-4581-8536-a0e33cdc9812",
+    "data": [
+      {
+        "text": "정보",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과에 대해 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4b85781-0731-4241-8e58-2f01b9bf8c02",
+    "data": [
+      {
+        "text": "정보보호학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과가 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3505adfe-afa0-4d2f-9ae4-057f219467d7",
+    "data": [
+      {
+        "text": "정보보호학과에 대해 알고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fc92e1f-ed1b-4417-9a4b-c5605288637d",
+    "data": [
+      {
+        "text": "정보보호학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과에 대해서 알고 싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

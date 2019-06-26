@@ -1,0 +1,44 @@
+{
+  "id": "44059be1-2fce-4ed8-a11d-89d24333394c",
+  "parentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - homepage",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom-3",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "496bd7e8-6758-483b-88ae-aaea2b6e9fab",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "컴퓨터공학과 홈페이지의 주소는\nhttp://ce.sejong.ac.kr/ 이거야!",
+            "http://ce.sejong.ac.kr/"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

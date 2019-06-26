@@ -1,0 +1,41 @@
+{
+  "id": "b4f3cc87-68d0-4186-baf8-91a41ec1e2e9",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - JavaScript",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07c040bc-ef1a-4b6f-b64e-1676e5913b9b",
+          "required": false,
+          "dataType": "@CourseName",
+          "name": "CourseName",
+          "value": "$CourseName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "킹영복 교수님의 추천 강의 사이트~ :\nhttps://www.w3schools.com/js/default.asp \n\n 오프코스 :\nhttps://ofcourse.kr/js-course/JavaScript-%EC%9E%85%EB%AC%B8"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "37428d80-5453-4a1f-b351-01290c523ec9",
+  "parentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - where",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a0565dc7-9895-4818-9e69-ca540f38eded",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "컴퓨터공학과 과사무실은 대양AI센터 442호에 있어!",
+            "대양AI센터 442호"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

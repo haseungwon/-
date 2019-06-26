@@ -1,0 +1,50 @@
+[
+  {
+    "id": "42f576aa-a9d8-49dc-993f-8ef6880b1e32",
+    "data": [
+      {
+        "text": "지기지기",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a784582f-9b3f-4ce1-8fb6-bb849c033d09",
+    "data": [
+      {
+        "text": "지기",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "341b5e70-9e74-4c59-9d1b-04878822868a",
+    "data": [
+      {
+        "text": "지능기전",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "673a3a9d-8ab7-4402-9514-25e7230794c3",
+    "data": [
+      {
+        "text": "지능기전공학부요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

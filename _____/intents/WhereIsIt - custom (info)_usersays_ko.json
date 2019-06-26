@@ -1,0 +1,62 @@
+[
+  {
+    "id": "837ec2c4-0ee0-4d25-b9db-f74e1889e431",
+    "data": [
+      {
+        "text": "정보",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5098ccc5-2a53-4a8a-a6a4-a93828f93c0b",
+    "data": [
+      {
+        "text": "정보보호학과는 어디에 있나요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19e8bd0d-adeb-459a-bf22-bc1d47414261",
+    "data": [
+      {
+        "text": "정보보호학과요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40568bcf-65d9-48b5-8784-723d6e440c93",
+    "data": [
+      {
+        "text": "정보보호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61b42f3c-db9f-47bf-b725-3063e3ae028c",
+    "data": [
+      {
+        "text": "정보보호학과",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

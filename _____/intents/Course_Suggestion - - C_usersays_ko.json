@@ -1,0 +1,70 @@
+[
+  {
+    "id": "68d7f41f-b6e3-46e8-ba14-e47329ee15dd",
+    "data": [
+      {
+        "text": "C",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fdb9fbde-8b5f-47a8-bc7a-cec3b92962f3",
+    "data": [
+      {
+        "text": "C",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      },
+      {
+        "text": " Programming",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbf68152-b044-4849-80c7-46f735200607",
+    "data": [
+      {
+        "text": "C",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      },
+      {
+        "text": " 프로그래밍",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57a7c99a-2742-4cab-8906-9af90b93be25",
+    "data": [
+      {
+        "text": "C",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      },
+      {
+        "text": " 언어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

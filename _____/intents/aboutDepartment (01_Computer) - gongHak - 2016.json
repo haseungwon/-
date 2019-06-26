@@ -1,0 +1,50 @@
+{
+  "id": "3ab2567d-1684-4613-a76f-df0f081fd4d1",
+  "parentId": "39c64239-2e2c-44d2-a265-35e53be7f7a1",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - gongHak - 2016",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-gongHak-followup",
+    "aboutDepartment01_Computer-custom-4-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom-4.aboutDepartment01_Computer-gongHak-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4bd7ba75-fa84-424c-a2e8-d1d025c6e7e2",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "ko",
+          "imageUrl": "http://abeek.sejong.ac.kr/front/imgs/%EC%9D%B8%EC%A6%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%9D%B4%EC%88%98%EC%B2%B4%EA%B3%84%EB%8F%84/%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%B5%ED%95%99/2016.jpg"
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

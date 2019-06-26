@@ -1,0 +1,32 @@
+{
+  "id": "376b8af9-9477-411c-a53e-38cb0991b54b",
+  "parentId": "207afd3f-b442-4f48-9006-7a49d2cf589d",
+  "rootParentId": "f956bea4-50e0-4506-a66f-25cd31d7d13c",
+  "name": "Curriculum - custom - custom-2",
+  "auto": true,
+  "contexts": [
+    "Curriculum-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Curriculum.Curriculum-custom.Curriculum-custom-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "※중핵필수선택※\n\n3개영역 이상에서 15 또는 18학점 이상 이수해야 함.\n5개 영역:사상과역사, 사회와문화, 융합과창업, 자연과과학기술, 세계와 지구촌\n\n가. 중핵필수선택은 졸업 기준에 명시된 영역과 학점을 충족시켜 이수해야 한다.\n\n나. 학교에서 지정한 중핵필수선택과 학과에서 지정한 전공기초교양(구 전공연계교양)은 반드시 이수 해야 한다. 지정과목의 학점 또는 이수구분이 변경되어도 그 과목을 이수하면 지정과목 이수 요건을 갖춘 것으로 인정한다.\n\n다. 중핵필수선택이나 전공기초교양에서 지정해제 된 경우 대체과목이 있으면 반드시 이수해야 하며, 대체과목이 없으면 이수하지 않아도 된다.\n\n라. 중핵필수선택이나 전공기초교양 과목 중에서 새로 지정이 추가된 경우 추가된 학년도에 입학한 학생들부터 이수하면 된다.\n\n마. 2015학년도 교과과정 개편에 따라 중핵필수선택(중선) 과목의 변경이 있으며, 기존에 중선 과목 이수시 중선 과목으로 인정되며, 신규로 중선 과목 이수시에도 중선으로 인정된다"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

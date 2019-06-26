@@ -1,0 +1,98 @@
+[
+  {
+    "id": "2c88b994-9268-4380-a0b6-3c478ee70218",
+    "data": [
+      {
+        "text": "2016",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb47a679-e983-41c8-96fc-966d1fb61410",
+    "data": [
+      {
+        "text": "2016년",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e98eb43c-2287-4836-9e61-96ed81f2ff1e",
+    "data": [
+      {
+        "text": "2016년도",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "꺼요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66458968-86df-4f9a-885a-aac2290b84f8",
+    "data": [
+      {
+        "text": "2016",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "학년도의 이수체계표를 원합니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d13b08-2cb5-4bb2-a3e5-e6ae246d52b6",
+    "data": [
+      {
+        "text": "2016",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "학년도",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e302c974-c87b-4340-8994-d774b86c0334",
+    "data": [
+      {
+        "text": "2016년도",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

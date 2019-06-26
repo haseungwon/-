@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c6e753fa-f67f-4613-9087-91b679985e75",
+    "data": [
+      {
+        "text": "교양 뭐 있는지 말해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c09f4d03-52cc-4de1-8751-a080eaa28ad0",
+    "data": [
+      {
+        "text": "교양 뭐 뭐 있는지 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d0a2dc8-1e19-411f-b940-149dde89cb5d",
+    "data": [
+      {
+        "text": "교양과목좀 보여줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6d2e2dcc-725e-47d7-b492-203d6049fe9b",
+    "data": [
+      {
+        "text": "교양 과목좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8326dde6-7fe5-4bab-a3f5-91e078d9dd64",
+    "data": [
+      {
+        "text": "교양과목입니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1eb09958-64ba-4741-b17a-f46b14ebb771",
+    "data": [
+      {
+        "text": "교양",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51ccc3ef-e49a-4487-9c9b-b5a2616ed528",
+    "data": [
+      {
+        "text": "교양 과목 알려주세요!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "481aeb80-958f-48e2-bd3d-7acb34f7a302",
+    "data": [
+      {
+        "text": "교양 과목이요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c40755e-df7c-4cf3-bc62-3b38b46d6ab5",
+    "data": [
+      {
+        "text": "교양과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

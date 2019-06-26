@@ -1,0 +1,41 @@
+{
+  "id": "245d9fcf-1bdb-4624-af38-ea11adb08ad9",
+  "parentId": "bdd7ba4b-aa90-4cd5-b800-73943b536989",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - professor - kook",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-professor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom.aboutDepartment01_Computer-professor-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15e69f01-38b9-41dd-89a0-2c3c0d85febb",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "국형준 교수님\n전공 : 인공지능\n연구실위치 : 대양AI센터 822호\n연구실전화 : 02)3408 - 3238\ne-mail 주소 : kook@sejong.ac.kr\n추천 강의 : \u0027자료구조및실습\u0027, \u0027알고리즘및실습\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

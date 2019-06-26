@@ -1,0 +1,35 @@
+{
+  "id": "28daf963-29eb-484f-9dc7-f6cc50f9d710",
+  "parentId": "42eb187f-957e-4c5b-8625-cf12c8eafcee",
+  "rootParentId": "42eb187f-957e-4c5b-8625-cf12c8eafcee",
+  "name": "WhereIsIt - custom (Software)",
+  "auto": true,
+  "contexts": [
+    "WhereIsIt-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WhereIsIt.WhereIsIt-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "대양AI 402호",
+            "소프트웨어학과 조교실의 위치는 대양AI 402호 입니다."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

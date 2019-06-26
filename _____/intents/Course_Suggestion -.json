@@ -1,0 +1,49 @@
+{
+  "id": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "parentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion -",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom",
+      "affectedContexts": [
+        {
+          "name": "Course_Suggestion--followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "41314e3e-e6e8-47d3-b2d9-933a7e21cdb7",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "2019년 기준으로 프로그램 사용 언어 순위야\n  1.  JAVA\n  2.  C\n  3.  Python\n  4.  C++\n  5.  Visual Basic .NET\n  6.  C#\n  7. JavaScript\n  8.  PHP\n  9.  SQL\n10. Assembly language\n이 중에서 하나 골라서 말해주세요~~"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

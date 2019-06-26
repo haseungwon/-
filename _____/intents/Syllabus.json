@@ -1,0 +1,27 @@
+{
+  "id": "84d7ad6c-6530-456d-a152-08508cd439ff",
+  "name": "Syllabus",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "https://drive.google.com/open?id\u003d1JnRsUsXCaGqE1hdJtJbo6sFfYWM7bhVP"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

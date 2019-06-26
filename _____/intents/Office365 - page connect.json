@@ -1,0 +1,32 @@
+{
+  "id": "0aed2472-a1ea-44ae-acec-5229b5d416fb",
+  "parentId": "a3129668-5baa-40f5-9544-6398f2ed65d6",
+  "rootParentId": "a3129668-5baa-40f5-9544-6398f2ed65d6",
+  "name": "Office365 - page connect",
+  "auto": true,
+  "contexts": [
+    "Office365-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Office365.Office365-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "https://www.office.com"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

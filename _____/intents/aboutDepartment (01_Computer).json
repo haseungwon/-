@@ -1,0 +1,45 @@
+{
+  "id": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer)",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "aboutDepartment01_Computer-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b4e3ea61-cda9-4086-bdf0-f37e5c947a9b",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "컴퓨터공학과의 어떤 점을 알고 싶나요? (위치, 전화번호, 홈페이지, 교수님, 공학인증 등 키워드를 넣어서 대답해주세요!)",
+            "컴퓨터공학과의 어떤 점이 궁금한가요? (위치, 전화번호, 홈페이지, 교수님, 공학인증 등 키워드를 넣어서 대답해주세요!)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

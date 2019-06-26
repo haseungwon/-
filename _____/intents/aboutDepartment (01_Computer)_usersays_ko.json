@@ -1,0 +1,203 @@
+[
+  {
+    "id": "9c636646-ba84-43f7-847a-9d267892bb07",
+    "data": [
+      {
+        "text": "컴퓨터 공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과에 대해 어디까지 알고 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cffa42f3-95a0-446a-a946-b186787a8fac",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과에 대해 알고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63fb4b6c-76a8-4e73-9c9b-be87a3119d0a",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과가 뭐지?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ca0a40c4-1383-4d7e-80e4-647b4b3ac03f",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f375d82b-4f95-4b08-8c45-023a531f4d48",
+    "data": [
+      {
+        "text": "컴퓨터공학과에 대해 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a8d075b-6ba2-4022-93c1-0a63d9501eb4",
+    "data": [
+      {
+        "text": "세종대 ",
+        "userDefined": false
+      },
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "에 대해 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7a113b9-4f0d-432b-a1f9-8c9a8a9c0ca9",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": true
+      },
+      {
+        "text": "에 대해 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "440f6c69-a680-48e6-9921-fe8ffbf6c8bc",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "에 대해 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1560e126-12d0-47d5-9095-e295ddaaac39",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과가 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c79a899c-6f92-4f5c-9c2f-32abfbfc2ff5",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과에 대해 알고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f987cd05-672e-4e67-a19f-0e5386c1c0c9",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과에 대해서 알고 싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

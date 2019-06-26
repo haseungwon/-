@@ -1,0 +1,62 @@
+[
+  {
+    "id": "38db60bc-3310-466b-ab5d-e8736ce3ea4c",
+    "data": [
+      {
+        "text": "C",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      },
+      {
+        "text": "# 강의 듣고 싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23f68adf-a57b-49b6-801f-9f5a4938ecb5",
+    "data": [
+      {
+        "text": "씨샵이요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a41944b9-c80b-4734-a593-f4fcffee2e74",
+    "data": [
+      {
+        "text": "C",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      },
+      {
+        "text": "#",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb2bcc5c-7a37-481c-8946-e36935687318",
+    "data": [
+      {
+        "text": "씨샵",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

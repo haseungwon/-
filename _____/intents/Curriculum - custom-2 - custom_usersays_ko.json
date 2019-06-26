@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5d5db80f-b7ff-4ccc-9250-f18f518feb68",
+    "data": [
+      {
+        "text": "전필이요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06e0f86c-0e60-4b77-97b6-1ebcb1c844fb",
+    "data": [
+      {
+        "text": "전공필수과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86bae37a-6091-474c-ad93-0b40ed6ee0d9",
+    "data": [
+      {
+        "text": "전필 과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bda45b7c-1a46-43b8-9331-8c252f6ae20a",
+    "data": [
+      {
+        "text": "전필",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e12df99-cafb-4e4e-b4ba-8e8463c713d2",
+    "data": [
+      {
+        "text": "전공필수",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "id": "fc43fed1-0e93-463e-b42b-47cd6bff46d9",
+    "data": [
+      {
+        "text": "교수님 메일 주소 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aad43f1f-961c-456a-b9ba-325c1eec7835",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": " 교수님 ",
+        "userDefined": false
+      },
+      {
+        "text": "정보",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c06044dd-7c3e-4b88-a2de-8435ab8f148f",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "에 있는 교수님의 ",
+        "userDefined": false
+      },
+      {
+        "text": "정보",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "가 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a8397401-59d6-4b93-9788-ef97fdb51e52",
+    "data": [
+      {
+        "text": "교수님",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe05afdb-6604-4911-bc98-3786eed0a1af",
+    "data": [
+      {
+        "text": "교수님에 대해 질문할래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb7c81a5-14d9-4aaa-963b-aa8ff8abc84c",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과에 있는 교수님에 대해 물어볼래",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d1e6040-6134-44b9-89b7-9664f2ebcd99",
+    "data": [
+      {
+        "text": "교수님",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3b691f99-6c13-404b-adb4-c2943a4d6ba4",
+    "data": [
+      {
+        "text": "교수",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

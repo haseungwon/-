@@ -1,0 +1,9 @@
+{
+  "id": "1a0bfc03-e01f-4f1f-9d92-81c3e30c0c84",
+  "name": "ErrorName",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

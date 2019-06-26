@@ -1,0 +1,49 @@
+{
+  "id": "217e21f0-7f46-49a9-b4f2-83ddc417620f",
+  "parentId": "4062c742-4e25-4480-b289-00e1172b0541",
+  "rootParentId": "4062c742-4e25-4480-b289-00e1172b0541",
+  "name": "CodeErrorNew - custom-4",
+  "auto": true,
+  "contexts": [
+    "CodeErrorNew-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CodeErrorNew.CodeErrorNew-custom-4",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e5653e53-6a7b-443d-8da9-ff5bf1a0379e",
+          "required": false,
+          "dataType": "@ErrorName",
+          "name": "ErrorName",
+          "value": "$ErrorName",
+          "isList": false
+        },
+        {
+          "id": "51199267-0e71-4e3b-a852-c3be22b9899b",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "\"Time Limit\"은 프로그램이 제한된 시간 이내에 끝나지 않은 경우 발생하는 오류에요. 시간 제한을 초과하면 실행을 즉시 중단기 때문에 정답이 맞았는지 틀렸는지는 알 수 없어요."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "f17b7d2b-caa4-4924-95af-5aede35f30e8",
+  "parentId": "207afd3f-b442-4f48-9006-7a49d2cf589d",
+  "rootParentId": "f956bea4-50e0-4506-a66f-25cd31d7d13c",
+  "name": "Curriculum - custom - custom-4",
+  "auto": true,
+  "contexts": [
+    "Curriculum-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Curriculum.Curriculum-custom.Curriculum-custom-custom-4",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "※자유선택교양※\n\n일반교양영역\n\n가. 중핵필수에서 해제된 과목의 학점은 자유선택교양(구 교양선택) 학점으로 인정한다. 단, 중핵필수에서 해제되어 자유선택교양이 아닌 다른 이수구분으로 변경된 경우에는 해당 이수구분 학점으로 인정한다.\n\nEnglish Listening A\nEnglish Listening B\t중핵필수 → 자유선택교양(2016)\tEnglish Listening(동일과목)\n\nEnglish Reading A\nEnglish Reading B\t중핵필수 → 자유선택교양(2016)\tEnglish Reading(동일과목)\n\n나. 자유선택교양(구 교양선택)은 학생이 자율적으로 선택해서 수강할 수 있다.\n\n다. 해당 전공, 복수전공, 부전공, 교직과목이 아닌 다른 전공과목 또는 교직과목을 이수하는 경우 \"일반교양과목\"으로 분류하며 자유선택교양을 이수한 것으로 인정한다. 이수구분은 \"교양\"으로 표시하며 영역은 \"인성과도덕, 역사와문화, 사회와제도, 생명과자연, 예술과생활, 지구촌의이해\"와 구분하여 \"일반교양영역\"으로 인정한다."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

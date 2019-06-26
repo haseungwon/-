@@ -1,0 +1,32 @@
+{
+  "id": "aa14637a-2c93-46d7-b8bc-6e08caea2da3",
+  "parentId": "bdd7ba4b-aa90-4cd5-b800-73943b536989",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - professor - po",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-professor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom.aboutDepartment01_Computer-professor-custom-3",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "임필옥 교수님\n전공 : 컴퓨터공학\n연구실위치 : 대양AI센터 425호\n연구실전화 : 02)3408-3699\ne-mail 주소 : pollim@sejong.ac.kr\n추천 강의 : \u0027C프로그래밍및실습\u0027, \u0027고급C프로그래밍및실습\u0027, \u0027자료구조및실습\u0027, \u0027알고리즘및실습\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

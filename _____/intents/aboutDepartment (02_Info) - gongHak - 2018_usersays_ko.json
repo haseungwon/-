@@ -1,0 +1,98 @@
+[
+  {
+    "id": "126758c2-b3e8-4fb9-bdf2-deef4b509772",
+    "data": [
+      {
+        "text": "2018",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "816ea8a4-7f98-4cd1-b041-441e08bc6b08",
+    "data": [
+      {
+        "text": "2018년",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "268e3e9c-234d-4fee-9759-e8da3e53963e",
+    "data": [
+      {
+        "text": "2018년도",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "꺼요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f70139d7-694b-4b5a-b6bd-f31dabbfd76a",
+    "data": [
+      {
+        "text": "2018년의",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " 이수체계표를 원해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cab1104c-eaa8-4664-b41b-34e815909a43",
+    "data": [
+      {
+        "text": "2018년도",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5ee9ec7e-a638-4854-9709-b7b3b11cfe08",
+    "data": [
+      {
+        "text": "2018",
+        "alias": "date-time",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": "학년도",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

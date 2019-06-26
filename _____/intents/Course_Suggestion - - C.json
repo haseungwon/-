@@ -1,0 +1,41 @@
+{
+  "id": "42695d6b-81e1-4b7c-a8ec-44f16fa474c3",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - C",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b8ea77a2-92a5-4d57-8224-5fefd5765a5d",
+          "required": false,
+          "dataType": "@CourseName",
+          "name": "CourseName",
+          "value": "$CourseName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "코딩 도장 - 동영상 강의 포함 :\nhttps://dojang.io/ \n\n프로그래머스 :\nhttps://programmers.co.kr/ \n\n씹어먹는 C :\nhttp://itguru.tistory.com/130"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

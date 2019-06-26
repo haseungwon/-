@@ -1,0 +1,49 @@
+{
+  "id": "316f21dd-87fd-4c7c-acbd-fa54666eb4c3",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - Python",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23d61d72-f54a-4b67-928a-c1d848271847",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "66e6157e-fe96-4aab-a95b-a2b8344f24fe",
+          "required": false,
+          "dataType": "@CourseName",
+          "name": "CourseName",
+          "value": "$CourseName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "금지된 엑시노아의 비공정님 블로그에서 파이썬 강좌 :\nhttp://blog.eairship.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B4%80%EB%A0%A8/Python \n\n점프 투 파이썬 :  \nhttp://byteofpython-korean.sourceforge.net/byte_of_python.html : A Byte of Python 한국어판\nhttps://wikidocs.net/book/1 :"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

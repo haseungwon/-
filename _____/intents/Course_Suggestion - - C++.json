@@ -1,0 +1,41 @@
+{
+  "id": "e8bea926-7a7f-4017-bcad-3b000af15a7d",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - C++",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b782cf08-be84-44a3-a3bc-be592f669296",
+          "required": false,
+          "dataType": "@CourseName",
+          "name": "CourseName",
+          "value": "$CourseName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "http://codeup.kr/JudgeOnline/ :  코드업은 온라인 저지 사이트로 프로그래밍과 문제 해결 능력 향상을 목표로 한 사이트 입니 다.\nhttp://cplus.ubedu.com/ : C++언어 강좌(기초)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,116 @@
+[
+  {
+    "id": "5d72a778-502d-4cbd-af2d-66a536a342e1",
+    "data": [
+      {
+        "text": "ㅇㅋㅇㅋ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "878a1aa1-5399-4527-b798-c5f5c811d1ef",
+    "data": [
+      {
+        "text": "어어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95b0823f-8d47-4363-8680-3e1260334778",
+    "data": [
+      {
+        "text": "네",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 좋아요~",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f2920c9-b8e0-4bd7-a76a-25a17c284fe7",
+    "data": [
+      {
+        "text": "알려주세요.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e690ca2-9c4d-4e77-8bb4-3f89a690fac2",
+    "data": [
+      {
+        "text": "응 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3997c9a-ae0b-41bd-9657-55907d09c8eb",
+    "data": [
+      {
+        "text": "넵 알고싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bc8d75c-ab96-428c-a837-7fc542713dd3",
+    "data": [
+      {
+        "text": "네!",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a5e53e1-c903-43c6-8616-161bfd928da3",
+    "data": [
+      {
+        "text": "응",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2f8209d-16f4-4172-9e11-3d09984fa106",
+    "data": [
+      {
+        "text": "ㅇㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "ef825338-cd44-4b8a-a1e1-94b8f18810dd",
+    "data": [
+      {
+        "text": "컴퓨터공학과",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": true
+      },
+      {
+        "text": " 사무실이 어디에요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b9e9ef23-d03f-41ba-9d85-2288aae413e5",
+    "data": [
+      {
+        "text": "학과 사무실",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 어디에 있는지 모르겠어요 ㅠㅠ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d875a349-6ea9-47ce-a621-9d6a61ebce3d",
+    "data": [
+      {
+        "text": "학과 사무실이나  조교실의 위치를 알고 싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "56af008c-41fe-40e0-92c9-241f198281a1",
+    "data": [
+      {
+        "text": "학과장 도장 어디서 받나요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67865f7f-5506-48fd-a17f-f46401abe2aa",
+    "data": [
+      {
+        "text": "과사무실 어디있나요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "567f8b9a-d2ab-484c-89c0-d1ceb17f2bd8",
+    "data": [
+      {
+        "text": "학과 사무실 어디임",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b911ca5-c6c9-4135-a747-d54e480569a6",
+    "data": [
+      {
+        "text": "학과 사무실 위치를 알고 싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "136e5e6b-5c04-4cd6-b4ef-bd182e104380",
+    "data": [
+      {
+        "text": "학과장님 도장을 받아야해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

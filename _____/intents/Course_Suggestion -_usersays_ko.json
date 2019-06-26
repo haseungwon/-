@@ -1,0 +1,178 @@
+[
+  {
+    "id": "8684058b-ef44-48de-91d6-f5346d17f28a",
+    "data": [
+      {
+        "text": "땡큐",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5de06f4c-9adb-4ea8-b04e-4536c1bd91d4",
+    "data": [
+      {
+        "text": "좋아요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34ed8742-9be9-42a8-ac2b-684a6b9debf5",
+    "data": [
+      {
+        "text": "좋아용",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4da3fc2c-9265-4519-b646-669112eeaed0",
+    "data": [
+      {
+        "text": "굿",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0370d469-b9e5-468a-a40c-e9217ccb3ef1",
+    "data": [
+      {
+        "text": "나이스",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "356fc987-c78a-41ea-8172-c9172a0801f1",
+    "data": [
+      {
+        "text": "ㅇㅋ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "618ad4dd-cf64-4d5b-be80-2fd2c86f9b22",
+    "data": [
+      {
+        "text": "웅",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "743d51e1-144d-491f-a26b-39acdda7a2d3",
+    "data": [
+      {
+        "text": "감사합니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dec2183-f390-410e-8c78-7f90d12d0de3",
+    "data": [
+      {
+        "text": "예",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ca5e1d7-b013-4bdb-be08-403c0290bb6c",
+    "data": [
+      {
+        "text": "네",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "21cf9e1a-4b53-4fef-bb26-c98857bfa958",
+    "data": [
+      {
+        "text": "넵",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "60ac772a-9d22-4aca-a150-acbb5a823858",
+    "data": [
+      {
+        "text": "추천 ㄱㄱ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2e38a42-dead-410d-bb89-7de3dd2b1ad0",
+    "data": [
+      {
+        "text": "오",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " 좋아",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4eeefbfc-be1f-47a7-92c9-7ef9028a54fb",
+    "data": [
+      {
+        "text": "ㅇㅇ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

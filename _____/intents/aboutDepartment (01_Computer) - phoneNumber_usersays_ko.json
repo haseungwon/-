@@ -1,0 +1,170 @@
+[
+  {
+    "id": "b499a9a6-ac3f-4e90-ab42-4021fdd36f49",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": " 전번 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ade70e1-a022-4e8e-801b-91aefefb50a8",
+    "data": [
+      {
+        "text": "컴공",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 과사무실 전화번호 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f61f57f5-6701-4fa7-8e02-9588c227387f",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 전화번호 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7576349-5996-42a2-8212-5d8f85a6d2db",
+    "data": [
+      {
+        "text": "과사무실 번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "29ccf78b-6a5c-472c-b0ee-1c39ce2ff4e4",
+    "data": [
+      {
+        "text": "학과사무실 번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c46d02f-1230-4cc0-a0db-1db415785f8f",
+    "data": [
+      {
+        "text": "학과사무실 전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6c420087-e0ba-4de1-95ef-2b54b08f43dd",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 학과사무실 전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba3eec9c-24ae-473c-9a17-31f934a84a15",
+    "data": [
+      {
+        "text": "전화번호가 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03183fb2-061d-46cc-a89b-75637b1a13ca",
+    "data": [
+      {
+        "text": "전번 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3b08665-c9d3-4b96-a67a-e343192c9d20",
+    "data": [
+      {
+        "text": "전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "edab81d5-29cc-4e14-a5f6-cba340a56520",
+    "data": [
+      {
+        "text": "어디에 전화하면 돼?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce8ddb7c-dd31-4ef0-83e9-1b0590be2491",
+    "data": [
+      {
+        "text": "전화번호 좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

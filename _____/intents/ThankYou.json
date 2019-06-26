@@ -1,0 +1,31 @@
+{
+  "id": "2e4814b7-17c7-4bac-9b98-4fa52857b83c",
+  "name": "ThankYou",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "(기분이 좋아서 기쁨의 댄스를 추는 중이다)",
+            "데헷 \u003e\u003c",
+            "종이는 언제든지 환영이라구!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

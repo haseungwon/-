@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7b75e783-68ab-4d42-9461-76a133e9bf33",
+    "data": [
+      {
+        "text": "전공과목 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba1fa39d-0163-4ab5-9712-2889a74f631a",
+    "data": [
+      {
+        "text": "전공과목 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0d5fc89-cada-460a-aab1-4f3ae1818287",
+    "data": [
+      {
+        "text": "전공 과목 입니다.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "014c92bc-400a-400a-b338-341a024bff3f",
+    "data": [
+      {
+        "text": "전공 과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "25a539ab-0b03-46b6-905e-6d21050e2701",
+    "data": [
+      {
+        "text": "전공과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "78e43050-6f4c-49c1-bbcd-f9f39ca3f5b9",
+    "data": [
+      {
+        "text": "전공이요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

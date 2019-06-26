@@ -1,0 +1,71 @@
+[
+  {
+    "id": "15a18b70-ce8f-43f5-8c13-c76aabc9a05c",
+    "data": [
+      {
+        "text": "중필 과목",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 궁금해.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2459a3d6-c3dc-4822-85e3-01adf80bcd29",
+    "data": [
+      {
+        "text": "중핵필수과목 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "238b1008-41db-4b52-9ce3-1bbfa1d8f4f3",
+    "data": [
+      {
+        "text": "중핵필수 과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75962096-5470-47e6-bab4-4ef9e8b7de30",
+    "data": [
+      {
+        "text": "중필",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54430b0d-1ba2-441d-b8b4-a2997848aac5",
+    "data": [
+      {
+        "text": "중핵필수",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

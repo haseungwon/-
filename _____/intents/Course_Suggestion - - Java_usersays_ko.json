@@ -1,0 +1,60 @@
+[
+  {
+    "id": "6486df35-956b-474b-a8c6-833745efd264",
+    "data": [
+      {
+        "text": "절.대.자바",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73060de7-1402-45f6-89fa-8cb80b776b52",
+    "data": [
+      {
+        "text": "자바",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      },
+      {
+        "text": "를 잡을게",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7d00300-e315-4ea1-bee8-3b9eea742734",
+    "data": [
+      {
+        "text": "Java",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4bce4a09-9fd7-488d-92f7-f8312d1b6727",
+    "data": [
+      {
+        "text": "자바",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

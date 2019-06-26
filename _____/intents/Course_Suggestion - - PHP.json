@@ -1,0 +1,32 @@
+{
+  "id": "ad882ce2-f17b-43d0-b24e-d6ebf23e651e",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - PHP",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "https://opentutorials.org/;index.php/course/62 : 생활 코딩\nhttp://ezphp.net/lecture/ :  뇌를 자극하는 PHP 프로그래밍"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,164 @@
+[
+  {
+    "id": "78c83447-8844-40e5-b92c-5e40c222db06",
+    "data": [
+      {
+        "text": "정보보호",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": " 전번 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e626ff6b-d396-4942-a03c-7645f0777508",
+    "data": [
+      {
+        "text": "정보보호학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 과사무실 전화번호 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb4d09f7-4c7a-41d2-a6e9-0af98ac354b2",
+    "data": [
+      {
+        "text": "정보보호학과 전화번호 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12f8f20c-c1f9-4f92-85e0-7fecc9215288",
+    "data": [
+      {
+        "text": "과사무실 번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec911973-2404-424c-b43f-4f57fc4d4a07",
+    "data": [
+      {
+        "text": "학과사무실 번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0807e26-a633-46b5-a3d0-f41be79208de",
+    "data": [
+      {
+        "text": "학과사무실 전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d948156-7af8-447c-843a-f0cde46f2f57",
+    "data": [
+      {
+        "text": "정보보호학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 학과사무실 전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80328c7c-df4e-4159-8875-456a0a3ab18f",
+    "data": [
+      {
+        "text": "전화번호가 궁금해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f68ca370-ebad-407e-a8c7-4c8a102a4b1f",
+    "data": [
+      {
+        "text": "전번 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "27f251c6-ea3e-43e3-89b6-712fb2c246aa",
+    "data": [
+      {
+        "text": "전화번호",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c088f91-a3d4-47c9-991a-95dc704639b5",
+    "data": [
+      {
+        "text": "어디에 전화하면 돼?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2d649a6a-625f-4933-bf0c-f3bf007845ba",
+    "data": [
+      {
+        "text": "전화번호 좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "id": "0020ee2a-919f-4b31-afd2-f6b99b19b7d8",
+  "parentId": "4062c742-4e25-4480-b289-00e1172b0541",
+  "rootParentId": "4062c742-4e25-4480-b289-00e1172b0541",
+  "name": "CodeErrorNew - custom-2",
+  "auto": true,
+  "contexts": [
+    "CodeErrorNew-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CodeErrorNew.CodeErrorNew-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61535ddf-2247-4de1-ac97-cfd7d583fd24",
+          "required": false,
+          "dataType": "@ErrorName",
+          "name": "ErrorName",
+          "value": "$ErrorName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "\"컴파일 에러\"는 컴파일러가 이해하지 못하는 코드를 발견하였을 때 발생하는 오류에요. 대부분 문법적인 오류입니다. 경고(Warning)가 있어도 컴파일에 성공하면 이 결과를 받지 않습니다. 컴파일 에러를 클릭하면 컴파일 에러 메시지를 볼 수 있습니다."
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "다시 시도해보시고 도움이 필요하시면 help를 입력해주세요"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

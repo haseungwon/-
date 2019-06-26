@@ -1,0 +1,38 @@
+{
+  "id": "c1739509-efae-4e2c-8dfe-3033c08ad1a1",
+  "parentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "rootParentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "name": "aboutDepartment (02_Info) - gongHak",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment02_Info-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment02_Info.aboutDepartment02_Info-custom",
+      "affectedContexts": [
+        {
+          "name": "aboutDepartment02_Info-gongHak-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "몇 학년도 이수체계표가 필요하십니까?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "94f3eab1-3559-4eb1-a057-0d3be7192153",
+    "data": [
+      {
+        "text": "위치 좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1fbd3cf-b428-4a9a-9661-c6b824ff4310",
+    "data": [
+      {
+        "text": "과 사무실",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 어디야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c63f5dbe-b867-42aa-a5dc-4165c691109a",
+    "data": [
+      {
+        "text": "학과 사무실",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 어디야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3753305-49c7-4fda-a9ee-e2a95e63af71",
+    "data": [
+      {
+        "text": "사무실 위치를 알고 싶어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ca4d562-90e2-4508-af18-6c8502a2656d",
+    "data": [
+      {
+        "text": "어디에 있어?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea47d1a1-ac12-403c-97e5-2c4ec00f60f3",
+    "data": [
+      {
+        "text": "위치",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "20afbbad-59f2-4738-9afa-bb8d8064d2a1",
+    "data": [
+      {
+        "text": "장교수님",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9906e47-9300-4a72-ba2a-c8422504f79d",
+    "data": [
+      {
+        "text": "장교수",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37ddd806-0a86-407c-9e12-00c04988d65a",
+    "data": [
+      {
+        "text": "장윤 교수님",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a3afdd75-d1a7-4773-8397-897f5b35e31a",
+    "data": [
+      {
+        "text": "장윤 교수",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97f6a288-b2a2-42f2-9735-9adc6ec74480",
+    "data": [
+      {
+        "text": "장윤",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

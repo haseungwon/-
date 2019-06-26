@@ -1,0 +1,41 @@
+{
+  "id": "12465654-905e-4362-a351-a45b70fd6f0b",
+  "parentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "rootParentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "name": "aboutDepartment (02_Info) - homepage",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment02_Info-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment02_Info.aboutDepartment02_Info-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a1fef947-c209-49b9-821c-4294849deeca",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

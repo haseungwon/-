@@ -1,0 +1,40 @@
+[
+  {
+    "id": "5fcab057-eab1-4b50-98f4-fbb33613ce8a",
+    "data": [
+      {
+        "text": "비주얼 베이직",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70181d66-f356-4e56-9b41-df31a3579015",
+    "data": [
+      {
+        "text": "visual basic.net",
+        "alias": "url",
+        "meta": "@sys.url",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82f03938-df1f-4a0a-9629-4d311d3bd006",
+    "data": [
+      {
+        "text": "visual b",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

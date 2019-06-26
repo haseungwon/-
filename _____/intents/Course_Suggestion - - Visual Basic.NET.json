@@ -1,0 +1,41 @@
+{
+  "id": "7953c45d-5399-4ab7-829d-a4154a0927f3",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - Visual Basic.NET",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c5c748d1-dee1-4794-9858-ac76dfe1cff8",
+          "required": false,
+          "dataType": "@sys.url",
+          "name": "url",
+          "value": "$url",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "http://www.infopub.co.kr/info/ebook/pdf/8054-467.pdf: 초보자를 위한 한글 visual basic\nhttp://www.visual-basic-tutorials.com/ : 영어 사이트\nhttp://blog.daum.net/derbuler/7776477?lu\u003dm_pcv_main_sourceInfo: 한글 비디오 강좌"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e521893e-0003-4d79-a829-4318fd92b286",
+  "parentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "rootParentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "name": "aboutDepartment (02_Info) - phoneNumber",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment02_Info-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment02_Info.aboutDepartment02_Info-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "af1eb231-f0fd-48b7-9c65-dd5906715621",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,32 @@
+{
+  "id": "4b31bda4-e575-406c-ad7c-0dcb1de4017c",
+  "parentId": "26b650e5-8647-4925-99c4-dc8b723f65ab",
+  "rootParentId": "26b650e5-8647-4925-99c4-dc8b723f65ab",
+  "name": "Help - custom",
+  "auto": true,
+  "contexts": [
+    "Help-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Help.Help-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "디버깅"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,228 @@
+[
+  {
+    "id": "952039c2-58f4-4064-ae35-a142adae9cc9",
+    "data": [
+      {
+        "text": "꽁짜 오피스 ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " 까는법 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebf045fa-dcae-49a1-a9a4-5a7d6cf09c75",
+    "data": [
+      {
+        "text": "꽁짜 오피스 설치 방법좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6466e5d-5b40-4eb6-9273-3d27351e9f34",
+    "data": [
+      {
+        "text": "오피스 설치 방법 좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f42ca92b-f942-495e-baeb-63b1be323bff",
+    "data": [
+      {
+        "text": "무료 오피스 ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " 설치 방법좀 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ead38642-23eb-4cfe-9bf8-90dd99ca7c93",
+    "data": [
+      {
+        "text": "무료 오피스 설치 방법 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "31d61e82-267a-477a-be03-272cf321522e",
+    "data": [
+      {
+        "text": "학교에서 오피스 지원 문의",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9763b858-e6e1-43f5-b5d4-71f27f1ad926",
+    "data": [
+      {
+        "text": "학교에서 오피스 무료로 지원하는데 설치 어떻게 하나요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7109e4a4-bf4b-498b-9051-3b31d196fc80",
+    "data": [
+      {
+        "text": "윈도우에 오피스 설치 가능하나요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "072ecbf6-afaf-4a1e-89ad-144c381fc38d",
+    "data": [
+      {
+        "text": "마이크로 소프트 오피스 ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 설치 방법",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cc66c21-cd11-464c-8224-4b598e3f2a5e",
+    "data": [
+      {
+        "text": "노트북에 ",
+        "userDefined": false
+      },
+      {
+        "text": "워드",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 설치",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e94016d5-c113-4dc7-a2c6-c6f392747195",
+    "data": [
+      {
+        "text": "마이크로 소프트 오피스 설치 문의",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "05e10329-f242-4dc8-b45a-f16b6ea53921",
+    "data": [
+      {
+        "text": "오피스 ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " 설치",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8c0936d-caeb-4072-9c5a-399dac33e4b4",
+    "data": [
+      {
+        "text": "컴퓨터에 오피스 어떻게 까나요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c8c6ee6-3857-4986-b52e-4e282de22013",
+    "data": [
+      {
+        "text": "오피스 ",
+        "userDefined": false
+      },
+      {
+        "text": "365",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " 어떻게 사용하나요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "81fd4e73-c7fb-4a10-94c4-9174f9b1b2d0",
+    "data": [
+      {
+        "text": "전공기초교양",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b1874487-88a3-4d2d-8f95-030ef97ff510",
+    "data": [
+      {
+        "text": "기초교양",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9398a2b9-0188-4f85-8085-985ef5b18c8f",
+    "data": [
+      {
+        "text": "전공기초",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d4a104ae-7413-4dd9-9f67-2a681f005c32",
+    "data": [
+      {
+        "text": "전공 기초 교양",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

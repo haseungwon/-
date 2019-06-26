@@ -1,0 +1,43 @@
+{
+  "id": "39c64239-2e2c-44d2-a265-35e53be7f7a1",
+  "parentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - gongHak",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom-4",
+      "affectedContexts": [
+        {
+          "name": "aboutDepartment01_Computer-custom-4-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "aboutDepartment01_Computer-gongHak-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "몇 학년도 이수체계표가 필요하십니까?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d325a874-9a41-44b6-a1bd-4ff8194153c4",
+    "data": [
+      {
+        "text": "데싸과",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "579c5473-021c-4fc4-94c9-83b5f3ed201f",
+    "data": [
+      {
+        "text": "데사과",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d25147e-9df7-4102-8d18-70314dca9131",
+    "data": [
+      {
+        "text": "데싸요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66286b9b-11ec-4604-88e0-7b6f27390b23",
+    "data": [
+      {
+        "text": "데이터사이언스학과요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c928eb18-e1c3-4b34-adf4-a17fff5a3e93",
+    "data": [
+      {
+        "text": "데싸",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4cabb1a2-e18c-426a-bc02-83e32faa5201",
+    "data": [
+      {
+        "text": "데사",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fb0f404-f087-499b-8f38-6aa7690fcb31",
+    "data": [
+      {
+        "text": "데이터사이언스",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "520e4933-17b6-4e28-ba42-be37e3ec2777",
+    "data": [
+      {
+        "text": "데이터사이언스학과",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ad5800e7-fa39-4209-b77a-4888a117bd28",
+    "data": [
+      {
+        "text": "중선",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccfedeb0-289f-4a8d-ae64-b9943758b0a0",
+    "data": [
+      {
+        "text": "중필선",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecdcc2be-7c78-490e-92cb-7658355e7bbc",
+    "data": [
+      {
+        "text": "중핵 필수선택",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dfc5729-8667-48ed-9c75-82bffbe55b8b",
+    "data": [
+      {
+        "text": "중핵 필수 선택 과목 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "16e1212d-5bbd-4c48-b007-bf2fa1c7f03e",
+    "data": [
+      {
+        "text": "중필선택",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e0ba7f7-2533-4726-a6cf-4a9b6ec0a7e8",
+    "data": [
+      {
+        "text": "중필선택 과목이요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6648666e-7b43-4eff-a99d-4b45474906e6",
+    "data": [
+      {
+        "text": "중핵필수선택",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

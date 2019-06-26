@@ -1,0 +1,32 @@
+{
+  "id": "35f6729e-e925-46c6-9e27-1cb3785dc3a9",
+  "parentId": "bdd7ba4b-aa90-4cd5-b800-73943b536989",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - professor - jang",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-professor-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom.aboutDepartment01_Computer-professor-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "장윤 교수님\n전공 : 데이터 비쥬얼라이제이션\n연구실위치 : 대양AI센터 806호\n연구실전화 : 02)3408 - 3756\ne-mail 주소 : jangy@sejong.ac.kr\n추천 강의 : \u0027컴퓨터그래픽스\u0027, \u0027공학설계기초\u0027"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

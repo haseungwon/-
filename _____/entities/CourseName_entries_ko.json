@@ -1,0 +1,26 @@
+[
+  {
+    "value": "C",
+    "synonyms": [
+      "C"
+    ]
+  },
+  {
+    "value": "C++",
+    "synonyms": [
+      "C++"
+    ]
+  },
+  {
+    "value": "HTML",
+    "synonyms": [
+      "CSS"
+    ]
+  },
+  {
+    "value": "JAVA",
+    "synonyms": [
+      "JAVA"
+    ]
+  }
+]

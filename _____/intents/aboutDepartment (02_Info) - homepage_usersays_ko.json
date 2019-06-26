@@ -1,0 +1,110 @@
+[
+  {
+    "id": "2085a4ce-995b-44fa-bb62-e52152a263c9",
+    "data": [
+      {
+        "text": "정보보호학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 홈페이지로 가려면 어떻게 해야해?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "238bc947-4412-494b-b793-8431d422f939",
+    "data": [
+      {
+        "text": "정보보호학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 홈페이지 주소 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40a1de5a-af9d-4a4a-8c06-ef1e4650f19d",
+    "data": [
+      {
+        "text": "정보보호학과 사이트가 어디야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a0eafad-9f34-4a10-91c4-36150ad6f105",
+    "data": [
+      {
+        "text": "과 홈페이지 링크 알려주세여",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f4a491a7-a0a2-4c84-aca7-f88ac18da6c9",
+    "data": [
+      {
+        "text": "홈페이지 링크 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a10918-eeb6-4661-ba84-a5094fc38f86",
+    "data": [
+      {
+        "text": "홈페이지 링크 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "424aaf90-4fac-4f53-b7dd-21522fff2eb6",
+    "data": [
+      {
+        "text": "홈페이지 주소가 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4269395e-9f77-4da5-b52e-d348d5a9df1d",
+    "data": [
+      {
+        "text": "홈페이지 주소 좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

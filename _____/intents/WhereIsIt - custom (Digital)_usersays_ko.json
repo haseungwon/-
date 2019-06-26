@@ -1,0 +1,83 @@
+[
+  {
+    "id": "f5f89bd2-88a5-4927-8564-0414e2802ef8",
+    "data": [
+      {
+        "text": "디콘 사무실 어디에 있나요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc834b46-782b-40b8-8c0e-36a3f789a683",
+    "data": [
+      {
+        "text": "디콘 조교실 어디에요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5369695-5675-45a6-baad-851a2d4e8a00",
+    "data": [
+      {
+        "text": "디지털콘텐츠학과 조교실",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 어디인지 알고싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d56a407b-f1f4-4079-a694-1f4f44f533af",
+    "data": [
+      {
+        "text": "디콘과",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10086dd9-4fb2-4654-9ce8-9f4b2743e6fb",
+    "data": [
+      {
+        "text": "디콘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e89cdb88-92ea-422a-a178-cc62b7f7c6a6",
+    "data": [
+      {
+        "text": "디지털콘텐츠학과",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

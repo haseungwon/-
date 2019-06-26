@@ -1,0 +1,49 @@
+{
+  "id": "a31bb640-6007-4425-9882-e197efbf0f5d",
+  "parentId": "c1739509-efae-4e2c-8dfe-3033c08ad1a1",
+  "rootParentId": "fcffccca-b386-455e-ae3f-08a5411f276e",
+  "name": "aboutDepartment (02_Info) - gongHak - 2019",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment02_Info-gongHak-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment02_Info.aboutDepartment02_Info-custom.aboutDepartment02_Info-gongHak-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "29191ccc-9a38-4a09-ad96-77831a9ebe35",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "date-time",
+          "value": "$date-time",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "ko",
+          "imageUrl": "http://abeek.sejong.ac.kr/front/imgs/%EC%9D%B8%EC%A6%9D%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%9D%B4%EC%88%98%EC%B2%B4%EA%B3%84%EB%8F%84/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%ED%95%99/2019.gif"
+        },
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

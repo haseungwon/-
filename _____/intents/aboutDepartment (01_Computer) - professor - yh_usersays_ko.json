@@ -1,0 +1,74 @@
+[
+  {
+    "id": "09fdbb61-63c1-4b35-a39e-a66f09bc277c",
+    "data": [
+      {
+        "text": "안교수님",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "585cdc0a-7484-4c3c-bdec-7f121bf5e7b4",
+    "data": [
+      {
+        "text": "안교수",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7967feb5-98bb-4cb1-bba7-91a2e6cee9b6",
+    "data": [
+      {
+        "text": "갓용학",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6833514a-a5c8-49dd-953d-05ac0729f39f",
+    "data": [
+      {
+        "text": "안용학 교수님",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "097f5e20-a697-4f93-8dc7-ab5dd01a6aac",
+    "data": [
+      {
+        "text": "안용학 교수",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0813de4-e8e0-4aa5-85a4-8af3b7d20645",
+    "data": [
+      {
+        "text": "안용학",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

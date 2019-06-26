@@ -1,0 +1,144 @@
+[
+  {
+    "id": "d44a920f-93f1-4955-a33c-435d34da464e",
+    "data": [
+      {
+        "text": "언어 공부 추천 해 주십시요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "efb3a436-d673-410d-b978-47b67af033ac",
+    "data": [
+      {
+        "text": "무슨 언어 공부를 해야 잘했다고 소문",
+        "userDefined": false
+      },
+      {
+        "text": "이",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " 날까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d0c55591-838a-451f-81c7-953a03646d54",
+    "data": [
+      {
+        "text": "무슨 언어를 공부해야 할까요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b354ea0e-d331-43dd-86af-5bbabdf020eb",
+    "data": [
+      {
+        "text": "추천 해주실 프로그램 언어 있으신가요?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5579e981-099f-4594-a49e-2cdbf94253fe",
+    "data": [
+      {
+        "text": "언어 개발 프로그램 추천좀 해주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "32dc0a12-eb68-4d23-8637-87ee088066a9",
+    "data": [
+      {
+        "text": "공부하고 싶은데 뭘 할지 모르겠어",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ae72a5c-79fd-4f1e-a0f6-7f17f88d4208",
+    "data": [
+      {
+        "text": "개발 언어 추천좀 해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "501cbb85-23b7-4635-aa81-a17354100d4f",
+    "data": [
+      {
+        "text": "언어 공부 추천  좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ba64d0f-06f1-4b3c-8ff6-7cce0beaa473",
+    "data": [
+      {
+        "text": "프로그래밍 언어 추천좀 해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2ae7125d-54fd-4f59-8dab-7d7bb2cc03e9",
+    "data": [
+      {
+        "text": "방학때 공부할꺼 추천좀 해줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5a3afede-cf01-419d-846e-06fcc6319266",
+    "data": [
+      {
+        "text": "방학때 무슨 프로그래밍 공부하고 싶은 데 뭐 공부해야 할까?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

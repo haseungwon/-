@@ -1,0 +1,127 @@
+[
+  {
+    "id": "37c33daa-c390-4211-bbbf-5c0eaa9b63ff",
+    "data": [
+      {
+        "text": "수강 편람좀 보여줘 빨리",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b0fbe38-3668-4963-9967-e73cc8be41a7",
+    "data": [
+      {
+        "text": "수강 편람 좀 알려줘 급해",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "400ba2bc-7095-414b-998e-c4514f6c2977",
+    "data": [
+      {
+        "text": "수강 편람 좀 주겠니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e95af082-2068-40d8-a056-03fef19c1d10",
+    "data": [
+      {
+        "text": "수강 편람  ㄱ ㄱ",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b808f93e-71de-4f51-9eb4-de0e01ac15cb",
+    "data": [
+      {
+        "text": "수강 편람",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2d24c33-3a59-4a03-90b2-cae66aba811d",
+    "data": [
+      {
+        "text": "수강 편람을 보여주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5514c665-55bf-4d69-9d7d-8987552a1fb3",
+    "data": [
+      {
+        "text": "수강 편람 보여줘.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1b8c4eb-8884-4fcb-997a-9f7777dccc08",
+    "data": [
+      {
+        "text": "수강 편람 알려주세요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7e9b0f8-97a0-4bbe-af5b-d7435f977f8b",
+    "data": [
+      {
+        "text": "수강편람 궁금해요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f76b643a-1031-4f1b-9b3c-988010d4275d",
+    "data": [
+      {
+        "text": "올해",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " 수강편람 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

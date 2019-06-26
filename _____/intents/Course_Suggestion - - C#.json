@@ -1,0 +1,41 @@
+{
+  "id": "e725cf82-c1f8-4a8c-9ec9-1b56de8102c5",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - C#",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "59ae6040-dc1a-4963-b608-8649784e9be4",
+          "required": false,
+          "dataType": "@CourseName",
+          "name": "CourseName",
+          "value": "$CourseName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "https://dnmaxi.tistory.com/5?category\u003d721878 : 왕초보 입문용 프로그래밍 \nhttp://www.csharpstudy.com/ : 예제로 배우는 C# 프로그래밍\nhttps://programmers.co.kr/learn/courses/1 : 유니티로 배우는 C#"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Compile error",
+    "synonyms": [
+      "Compile error",
+      "compile error",
+      "컴파일 에러",
+      "컴파일 오류"
+    ]
+  },
+  {
+    "value": "Run-time error",
+    "synonyms": [
+      "Run time error",
+      "Run-time error",
+      "run time error"
+    ]
+  },
+  {
+    "value": "Time Limit",
+    "synonyms": [
+      "Time Limit",
+      "time limit",
+      "타임 리미트",
+      "타임 리밋"
+    ]
+  },
+  {
+    "value": "Wrong answer",
+    "synonyms": [
+      "Wrong Answer",
+      "Wrong answer",
+      "wrong answer"
+    ]
+  }
+]

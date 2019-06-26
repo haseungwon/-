@@ -1,0 +1,92 @@
+[
+  {
+    "id": "8824d24f-1e24-4f91-ab45-8b09f131c9ee",
+    "data": [
+      {
+        "text": "자바스크립트 입니다",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "81e316f0-565a-430d-acfb-58bae6c91a18",
+    "data": [
+      {
+        "text": "js요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3cf176d-0421-4d2d-ad9c-2a39e40e4992",
+    "data": [
+      {
+        "text": "JAVA",
+        "alias": "CourseName",
+        "meta": "@CourseName",
+        "userDefined": false
+      },
+      {
+        "text": " SCRIPT 요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47cbe23b-5868-4560-8d6c-f76c7f85bd6d",
+    "data": [
+      {
+        "text": "JS 공부하고 싶어요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08af024e-bdcf-4d6b-bfe1-150a2818853f",
+    "data": [
+      {
+        "text": "자바스크립트",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f050daa1-9ea0-4075-ba44-cae681c0e12a",
+    "data": [
+      {
+        "text": "JAVASCRIPT",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "523d3456-edb3-4e76-82d0-5e65c605bec6",
+    "data": [
+      {
+        "text": "js",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "id": "4f18bb82-f3ad-4ec2-b5f2-e72c5004fdf8",
+  "parentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "rootParentId": "60fb05fa-480a-4096-8f28-53d494ac0d72",
+  "name": "aboutDepartment (01_Computer) - phoneNumber",
+  "auto": true,
+  "contexts": [
+    "aboutDepartment01_Computer-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "aboutDepartment01_Computer.aboutDepartment01_Computer-custom-2",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61431719-c918-4fa8-899e-bbaf9ecf6683",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Department",
+          "value": "$Department",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "컴퓨터공학과 학과사무실의 전화번호는 02)3408-3321 입니다.",
+            "02)3408-3321"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

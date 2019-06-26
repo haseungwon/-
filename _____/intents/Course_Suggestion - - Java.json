@@ -1,0 +1,41 @@
+{
+  "id": "32679dc0-9593-49b0-96cd-b04a323e4d09",
+  "parentId": "0e0e6ee7-fb99-44b7-8e8f-11e49ccc3138",
+  "rootParentId": "f868c0b2-d29b-4409-b1e7-f41648e53754",
+  "name": "Course_Suggestion - - Java",
+  "auto": true,
+  "contexts": [
+    "Course_Suggestion--followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Course_Suggestion.Course_Suggestion-custom.Course_Suggestion--custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "4a046ffe-f9f3-44cd-89d3-96b0e4e7cc23",
+          "required": false,
+          "dataType": "@CourseName",
+          "name": "CourseName",
+          "value": "$CourseName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "여긴 꼭 가셔야 합니다 :\nhttp://java.sun.com\n\n이원영님(자바의 현자) 께서 운영하시는 말이 필요 없는 사이트\nhttp://www.javaservice.net \n\n자바 문서,강좌,QnA,등.. 총 집합 :\nhttp://www.javastudy.co.kr"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "id": "880de727-8749-4aae-8f33-8439d93fb0c0",
+    "data": [
+      {
+        "text": "컴퓨터공학과 홈페이지로 가려면 어떻게 해야해?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19d5bacc-92f0-4953-a280-9496083a0e21",
+    "data": [
+      {
+        "text": "컴퓨터공학과 홈페이지 주소 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d808a19-48ad-4cc9-bea0-15d56af7cbda",
+    "data": [
+      {
+        "text": "컴퓨터공학",
+        "alias": "Department",
+        "meta": "@Department",
+        "userDefined": false
+      },
+      {
+        "text": "과 사이트가 어디야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e805aa13-cef6-40da-bdd9-345bac0f5631",
+    "data": [
+      {
+        "text": "과 홈페이지 링크 알려주세여",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45000aca-f0c8-415f-a0a6-994ab017f00c",
+    "data": [
+      {
+        "text": "홈페이지 링크 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f9d541e-2ed7-4a33-9b93-94ce5fd82cc2",
+    "data": [
+      {
+        "text": "홈페이지 링크 좀",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f573b55a-7755-4257-9e17-abc52923ca35",
+    "data": [
+      {
+        "text": "홈페이지 주소가 뭐야?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1044874e-2ba6-437a-8652-d3c8241cca55",
+    "data": [
+      {
+        "text": "홈페이지 주소 좀 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

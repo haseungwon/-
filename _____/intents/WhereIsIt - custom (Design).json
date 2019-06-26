@@ -1,0 +1,35 @@
+{
+  "id": "792d1a62-ab6a-4709-9a4c-ac5945d29c8c",
+  "parentId": "42eb187f-957e-4c5b-8625-cf12c8eafcee",
+  "rootParentId": "42eb187f-957e-4c5b-8625-cf12c8eafcee",
+  "name": "WhereIsIt - custom (Design)",
+  "auto": true,
+  "contexts": [
+    "WhereIsIt-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "WhereIsIt.WhereIsIt-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "진관홀 514호",
+            "디자인이노베이션 조교실의 위치는 진관홀 514호 입니다."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

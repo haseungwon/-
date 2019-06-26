@@ -1,0 +1,74 @@
+[
+  {
+    "id": "a53e5fc8-babb-4473-8aa8-6b45d08b47e1",
+    "data": [
+      {
+        "text": "전공선택과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d1c2a581-10a0-402d-ace4-43c1ece5ba07",
+    "data": [
+      {
+        "text": "전선 과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67586f88-1075-43c4-861c-153f99857acd",
+    "data": [
+      {
+        "text": "전선 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "862edfcb-8c2a-4f1f-a6e9-6ca7037044fb",
+    "data": [
+      {
+        "text": "전공 선택이요",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "17a1fa66-f962-4284-92af-1cc25c7db5cf",
+    "data": [
+      {
+        "text": "전공 선택 과목",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1895fca4-aa0d-43dd-8f22-86950996c85a",
+    "data": [
+      {
+        "text": "전선",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

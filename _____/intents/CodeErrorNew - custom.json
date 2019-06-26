@@ -1,0 +1,41 @@
+{
+  "id": "5adfa4e3-bd3c-43a3-96da-6308cbc51813",
+  "parentId": "4062c742-4e25-4480-b289-00e1172b0541",
+  "rootParentId": "4062c742-4e25-4480-b289-00e1172b0541",
+  "name": "CodeErrorNew - custom",
+  "auto": true,
+  "contexts": [
+    "CodeErrorNew-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CodeErrorNew.CodeErrorNew-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2857fc05-91cb-4ccb-ba1c-9a6ca23d22ce",
+          "required": false,
+          "dataType": "@ErrorName",
+          "name": "ErrorName",
+          "value": "$ErrorName",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "\"런타임오류\"는 프로그램의 실행 중에 발생하는 오류에요. 일반적으로 프로그램에서 수행할 수 없는 작업을 시도할 때 발생하는데 이는 프로그램 설계의 미숙일 수도 있고, 매우 드물게 하드웨어 결함 문제일 수 도 있습니다. 프로그램이 비정상적으로 종료한 경우, Exit code가 0이 아닌 경우, segmentation fault를 받은 경우가 대표적입니다."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
